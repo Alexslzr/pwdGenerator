@@ -1,0 +1,51 @@
+body{
+    font-family: 'Inter', sans-serif;
+    background: #1F2937;
+    margin-left: 50px;
+    margin-top: 110px;
+    margin-right: 115px;
+}
+
+.title{
+    font-family: 'Karla', sans-serif;
+}
+
+#firstitle {
+    color: white;
+}
+
+#secondtitle{
+    color: #4ADF86;
+}
+
+button {
+    color: white;
+    background: #10B981;
+    border-radius: 5px;
+    border: none;
+    padding: 9px 17px 9px 15px;
+}
+
+h3{
+    color: #D5D4D8;
+    font-weight: lighter;
+}
+h4{
+    display: flex;
+    background: #273549;
+    color: #55F991;
+    width: 200px;
+    border-radius: 6px;
+    height: 39px;
+    justify-content: center;
+    align-items: center;
+}
+
+#first {
+    border-bottom:1px solid #2F3E53 ;
+    padding-bottom:  50px;
+}
+
+p {
+    color: white
+}
